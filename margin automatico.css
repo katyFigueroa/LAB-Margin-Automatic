@@ -1,0 +1,20 @@
+#uno  { 
+   
+   border:10px solid yellow; 
+   width: 200px;
+   height: 200px;
+   padding: 15px 15px;
+   margin: 10px;
+   text-align: center;
+
+ }
+
+
+ #dos{ 
+   border:10px solid yellow;
+   width: 200px;
+   height: 200px;
+   padding: 15px 15px;
+   margin: 10px;
+   margin: auto;
+  }
